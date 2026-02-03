@@ -1,5 +1,8 @@
 ### 🧑‍💻 조해리
 
+<hr style="height:1px;border:none;background-color:#e1e4e8;" />
+
+
 ### 🛠 Tech Stacks
 | Category | Technologies |
 |--------|-------------|
