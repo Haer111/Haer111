@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Redash-FF7964?style=flat&logo=redash&logoColor=white"/> <br/>
 
-<img src="https://img.shields.io/badge/SPSS-052FAD?style=flat&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPSS-052FAD?style=flat&logo=ibm&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
 
 ## 📖 Education
 - SK네트웍스 Family AI 캠프 17기 – 인공지능 모델링 교육 
